@@ -1,0 +1,1 @@
+export const environment = {API_KEY: "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MzQ4NTJiYTJmMWM5MmYyZDQ0NGM1ZmYyZGEzMGVhYyIsInN1YiI6IjY0ZjhjNDA0YThiMmNhMDBhYzhhMjNkNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.vWvOXQlNgMHkGAnnY1vVdJ5fDN7moyC5O2es8SdB49M"};
